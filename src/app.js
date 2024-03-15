@@ -6,7 +6,7 @@ import Notifications from 'vue-notification'
 import PerfectScrollbar from "vue2-perfect-scrollbar";
 import "vue2-perfect-scrollbar/dist/vue2-perfect-scrollbar.css";
 
-//import '../../node_modules/bootstrap/dist/css/bootstrap.css'
+//import '...///../node_modules/bootstrap/dist/css/bootstrap.css'
 import '../../node_modules/bootstrap-vue/dist/bootstrap-vue.css'
 
 import { store } from './_store';
