@@ -18,7 +18,7 @@ extend('required', {
   message: 'This field is required'
 })
 
-// Add the email rule
+//// Add the email rule
 
 extend('email', {
   ...email,
